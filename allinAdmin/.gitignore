@@ -1,0 +1,14 @@
+data/
+node_modules/
+*.log
+
+.env
+.env.*
+!.env.example
+/*.jpg
+/*.jpeg
+/*.png
+*.sqlite
+*.sqlite-*
+*.key
+*.pem
